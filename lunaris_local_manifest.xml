@@ -29,4 +29,7 @@
     <project path="kernel/xiaomi/sm8450-modules" name="android_kernel_xiaomi_sm8450-modules_by_aosp_pablo" remote="kawakawa" revision="16" depth="1" />
     <project path="kernel/xiaomi/sm8450-devicetrees" name="android_kernel_xiaomi_sm8450-devicetrees_by_aosp_pablo" remote="kawakawa" revision="16" depth="1" />
 
+    <!-- Keys -->
+    <project path="vendor/lineage-priv/keys" name="sign" remote="kawakawa" revision="keys" />
+    
 </manifest>
